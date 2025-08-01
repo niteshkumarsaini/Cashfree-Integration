@@ -38,12 +38,8 @@ public class OrderService {
 	@Value("${payment.cashfree.api.SecretKey}")
 	private static String secretKey;
 
-	public static Cashfree cashfree = new Cashfree(null, "APPID",
-			"APPSecret", null, null, null);
-
-	static {
-		System.out.println("Static block is called..");
-	}
+	public static Cashfree cashfree = new Cashfree(null, "TEST10713838b34b23e1bd78903d0dbb83831701",
+			"cfsk_ma_test_dbc963d4180068aecfd4274908dac187_9808ed7a", null, null, null);
 
 	private Logger logger = LoggerFactory.getLogger(OrderService.class);
 
