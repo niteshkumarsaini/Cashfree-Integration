@@ -78,7 +78,5 @@ To test the application, follow these steps:
 The application provides a comprehensive set of APIs for integrating with third-party services. The API documentation can be found at `http://localhost:8080/api/docs`
 
 ## 👤 Author
-The Cashfree Payment Gateway was developed by [Your Name].
+The Cashfree Payment Gateway was developed by Nitesh Kumar Saini.
 
-## 📝 License
-The Cashfree Payment Gateway is licensed under the [License Name]. See the LICENSE file for more information.
