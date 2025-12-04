@@ -69,11 +69,6 @@ To test the application, follow these steps:
 4. **Test**: Run the following command to execute the tests: `mvn test`
 5. **Report**: The test report can be found in the `target/surefire-reports` directory.
 
-## 📸 Screenshots
-[Placeholder: Screenshot of the payment interface]
-[Placeholder: Screenshot of the transaction management system]
-[Placeholder: Screenshot of the webhook notification system]
-
 ## 📦 API Reference
 The application provides a comprehensive set of APIs for integrating with third-party services. The API documentation can be found at `http://localhost:8080/api/docs`
 
